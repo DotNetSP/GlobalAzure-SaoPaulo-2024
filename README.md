@@ -17,7 +17,7 @@ Acesse este [**link**](/img/) para visualizar todas as fotos das apresentações
 
 Link da transmissão: [**YouTube**](https://www.youtube.com/watch?v=Hdtl3lvgYcI)
 
-Formulário utilizado para inscrições: [**Microsoft Reactor**](https://developer.microsoft.com/pt-br/reactor/events/24814/?wt.mc_id=meetup_24814_webpage_reactor)
+Formulário utilizado para inscrições: [**Microsoft Reactor**](https://developer.microsoft.com/pt-br/reactor/events/22160/?wt.mc_id=1reg_22160_webpage_reactor)
 
 Local: Microsoft Reactor - Rua Jaceru, 225 - Vila Gertrudes - São Paulo - SP - CEP: 04705-000
 
