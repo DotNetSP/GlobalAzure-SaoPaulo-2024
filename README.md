@@ -43,3 +43,11 @@ Deixamos aqui nossos agradecimentos ao Victor Temple e à Larissa Cyganski pela 
 ![Angelo e Henrique palestrando 2](img/ga-32.jpg)
 
 ![Banner do evento](img/banner.jpg)
+
+![Feedback LinkedIn 1](img/l-01.png)
+
+![Feedback LinkedIn 2](img/l-02.png)
+
+![Feedback LinkedIn 3](img/l-03.png)
+
+![Feedback LinkedIn 4](img/l-04.png)
