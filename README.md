@@ -11,6 +11,18 @@ Organizadores:
 
 Número de participantes: **24 pessoas**
 
+???
+
+Acesse este [**link**](/img/) para visualizar todas as fotos das apresentações.
+
+Link da transmissão: [**YouTube**](https://www.youtube.com/watch?v=Hdtl3lvgYcI)
+
+Formulário utilizado para inscrições: [**Microsoft Reactor**](https://developer.microsoft.com/pt-br/reactor/events/24814/?wt.mc_id=meetup_24814_webpage_reactor)
+
+Local: Microsoft Reactor - Rua Jaceru, 225 - Vila Gertrudes - São Paulo - SP - CEP: 04705-000
+
+Deixamos aqui nossos agradecimentos ao Victor Temple e à Larissa Cyganski pela oportunidade e todo o apoio para promovermos esta edição local do .NET Conf no Microsoft Reactor em São Paulo-SP.
+
 ---
 
 ![Renato palestrando 1](img/ga-24.jpg)
