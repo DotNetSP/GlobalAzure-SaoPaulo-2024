@@ -12,7 +12,9 @@ Organizadores:
 Número de participantes: **24 pessoas**
 
 Apresentações:
-
+1) _IA em projetos de transformação digital com Azure - Jorge Maia (Microsoft MVP)_
+2) _MFA e Azure AD B2C - implementando autenticação multifator em poucos cliques! - Renato Groffe (Microsoft MVP, MTAC)_
+3) _O Que É e Como Implementar Avatares Quase Reais com Azure Speech - Angelo Belchior (Microsoft MVP, MTAC) e Henrique Souza (Microsoft MVP)_
 
 Tecnologias e tópicos abordados: **Inteligência Artificial, OpenAI, Azure AI Services, Ollama, Docker, Docker Hub, Kubernetes, OWASP Top 10 for LLM Applications & Generative AI, Docker, PostgreSQL, Azure SQL, Azure Kubernetes Service (AKS), Azure Container Apps...**
 
