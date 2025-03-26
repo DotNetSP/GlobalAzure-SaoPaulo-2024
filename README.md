@@ -16,7 +16,7 @@ Apresentações:
 2) _MFA e Azure AD B2C - implementando autenticação multifator em poucos cliques! - Renato Groffe (Microsoft MVP, MTAC)_
 3) _O Que É e Como Implementar Avatares Quase Reais com Azure Speech - Angelo Belchior (Microsoft MVP, MTAC) e Henrique Souza (Microsoft MVP)_
 
-Tecnologias e tópicos abordados: **Inteligência Artificial, OpenAI, Azure AI Services, Ollama, Docker, Docker Hub, Kubernetes, OWASP Top 10 for LLM Applications & Generative AI, Docker, PostgreSQL, Azure SQL, Azure Kubernetes Service (AKS), Azure Container Apps...**
+Tecnologias e tópicos abordados: **Inteligência Artificial, OpenAI, Azure OpenAI, Copilot, Azure AD B2C, Microsoft Entra ID, .NET, ASP.NET Core...**
 
 Acesse este [**link**](/img/) para visualizar todas as fotos das apresentações.
 
