@@ -11,7 +11,10 @@ Organizadores:
 
 Número de participantes: **24 pessoas**
 
-???
+Apresentações:
+
+
+Tecnologias e tópicos abordados: **Inteligência Artificial, OpenAI, Azure AI Services, Ollama, Docker, Docker Hub, Kubernetes, OWASP Top 10 for LLM Applications & Generative AI, Docker, PostgreSQL, Azure SQL, Azure Kubernetes Service (AKS), Azure Container Apps...**
 
 Acesse este [**link**](/img/) para visualizar todas as fotos das apresentações.
 
@@ -36,3 +39,5 @@ Deixamos aqui nossos agradecimentos ao Victor Temple e à Larissa Cyganski pela 
 ![Angelo e Henrique palestrando 1](img/ga-29.jpg)
 
 ![Angelo e Henrique palestrando 2](img/ga-32.jpg)
+
+![Banner do evento](img/banner.jpg)
